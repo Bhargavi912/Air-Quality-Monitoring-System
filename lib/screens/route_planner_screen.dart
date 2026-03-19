@@ -104,7 +104,7 @@ class _RoutePlannerPagesState extends State<_RoutePlannerPages> {
               const SizedBox(height: 6),
               _CityAutocompleteField(
                 initialValue: _originText,
-                hint: 'e.g. Badvel',
+                hint: 'e.g. Kadapa',
                 icon: Icons.my_location,
                 iconColor: Colors.green,
                 onTextChanged: (val) {
